@@ -53,8 +53,19 @@ a {
 }
 
 #video-youtube {
+    margin: 0px -20px 30px -20px;
     text-align: center;
     padding: 30px;
+    padding-bottom: 55.5%;
+    position: relative;
+}
+
+iframe{
+    position: absolute;
+    top: 5%;
+    left: 5%;
+    width: 90%;
+    height: 90%;
 }
 
 p {
